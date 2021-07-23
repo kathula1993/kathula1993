@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @kathula1993
+- 👋 Hi, I’m Prudhvi Raj Kathula 
 - 👀 I’m interested in electric Vehicles 
 - 🌱 I’m currently learning Self Driving Nanodegree Engineer program.
 - 💞️ I am also Electrical Engineer at Zoox Autonomous Vehicles 
